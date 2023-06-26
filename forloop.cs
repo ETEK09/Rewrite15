@@ -71,6 +71,6 @@ for (int i = 7; i > 11; i++)
 for (int i = 11; i < 99; i++)
 {
     Console.WriteLine($"i");
-};
+}
 
 
